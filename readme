@@ -5,4 +5,8 @@ April 20th - 9.44PM
 *Formatted the data to make it compatible to feed it into the Trajectron++ model.
 *Initiated the training. Trained for 50 epochs, with a 80-20 split.
 
+April 27th - 11.53PM (Phew.. Just before the deadline)
+*Trained the ETH/UCY datasets completely.
+*Included all the detailed results obtained after training.
+*Modified the report - added diagrams and details of the experiments.
 
