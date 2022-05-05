@@ -3,7 +3,7 @@
 Starting off - April 13th - 4.49PM
 
 April 20th - 9.44PM
-*Processed the ETH/UCY datasets into a dictionary.
+* Processed the ETH/UCY datasets into a dictionary.
 *Formatted the data to make it compatible to feed it into the Trajectron++ model.
 *Initiated the training. Trained for 50 epochs, with a 80-20 split.
 
